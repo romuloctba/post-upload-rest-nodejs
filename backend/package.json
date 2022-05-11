@@ -5,6 +5,6 @@
   "dependencies": {
     "body-parser": "^1.11.0",
     "connect-multiparty": "^1.2.5",
-    "express": "^4.11.2",
+    "express": "^4.11.2"
   }
 }
